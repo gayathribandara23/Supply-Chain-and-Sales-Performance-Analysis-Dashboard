@@ -15,6 +15,8 @@ The dashboard was developed through three analytical stages to provide a compreh
 
 The first stage focused on creating an executive-level overview of business performance. Key performance indicators (KPIs), sales and profit trends, regional sales distribution, category performance, and geographical analysis were incorporated to provide a quick understanding of overall business performance.
 
+- [Executive Summary](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Summary.JPG)
+
 ### Phase 2: Product Performance Analysis
 
 The second stage focused on product-level analysis. This phase identified top-performing products based on sales and profitability, enabling a detailed evaluation of product contribution to business growth and profitability.
