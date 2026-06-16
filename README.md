@@ -21,12 +21,12 @@ The first stage focused on creating an executive-level overview of business perf
 
 The second stage focused on product-level analysis. This phase identified top-performing products based on sales and profitability, enabling a detailed evaluation of product contribution to business growth and profitability.
 
--[Product Performance](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Product%20Performance.JPG)
+- [Product Performance](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Product%20Performance.JPG)
 
 ### Phase 3: Regional and Customer Performance Analysis
 
 The final stage focused on analyzing regional and customer performance. Sales, profit, order distribution, and profit margin were evaluated across regions and regional managers. Customer-level analysis was also included to identify valuable customers and support data-driven decision-making.
 
--[Regional and Customer Performance](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Manager_Customer%20Analysis.JPG)
+- [Regional and Customer Performance](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Manager_Customer%20Analysis.JPG)
 
 
