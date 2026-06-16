@@ -7,16 +7,18 @@ The objective of this project is to develop an interactive Power BI dashboard th
 ## Dataset Used
 - [Dataset](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Sample%20-%20Superstore_2024.xlsx)
 
-The dashboard is designed across three analytical layers:
+# Process of Dashboard Development
 
-### 1. Executive Summary Dashboard
+The dashboard was developed through three analytical stages to provide a comprehensive view of business performance.
 
-Provides a high-level overview of business performance through key performance indicators (KPIs), sales and profit trends, regional sales distribution, category performance, and geographical analysis.
+### Phase 1: Executive Summary Dashboard
 
-### 2. Product Performance Analysis
+The first stage focused on creating an executive-level overview of business performance. Key performance indicators (KPIs), sales and profit trends, regional sales distribution, category performance, and geographical analysis were incorporated to provide a quick understanding of overall business performance.
 
-Focuses on identifying top-performing products by profit and sales. This page enables users to evaluate product-level performance and understand which products contribute most to business profitability.
+### Phase 2: Product Performance Analysis
 
-### 3. Regional and Customer Performance Analysis
+The second stage focused on product-level analysis. This phase identified top-performing products based on sales and profitability, enabling a detailed evaluation of product contribution to business growth and profitability.
 
-Examines sales and profit performance across regional managers and regions. It also highlights customer contributions and regional profitability, helping management evaluate operational effectiveness and customer value.
+### Phase 3: Regional and Customer Performance Analysis
+
+The final stage focused on analyzing regional and customer performance. Sales, profit, order distribution, and profit margin were evaluated across regions and regional managers. Customer-level analysis was also included to identify valuable customers and support data-driven decision-making.
