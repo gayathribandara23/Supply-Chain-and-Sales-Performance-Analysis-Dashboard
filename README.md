@@ -29,4 +29,17 @@ The final stage focused on analyzing regional and customer performance. Sales, p
 
 - [Regional and Customer Performance](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Manager_Customer%20Analysis.JPG)
 
+## Project Insights
 
+Sales and profit showed a positive growth trend over time.
+The Technology category generated the highest sales and profitability.
+A small number of products contributed significantly to total profit.
+The West region achieved the highest sales and profit performance.
+Customer contributions varied, with a few key customers generating substantial revenue.
+Profit margins differed across regions, indicating variations in regional performance.
+Regional manager analysis highlighted differences in sales, profit, and order distribution.
+
+
+## Final Conclusion 
+
+The Supply Chain and Sales Performance Analysis Dashboard successfully transformed business data into meaningful insights through interactive Power BI visualizations. The analysis identified key products, customers, and regions that drive business performance while highlighting opportunities for improvement. Overall, the dashboard supports data-driven decision-making and provides an effective tool for monitoring sales, profitability, and regional performance.
