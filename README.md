@@ -31,13 +31,13 @@ The final stage focused on analyzing regional and customer performance. Sales, p
 
 ## Project Insights
 
-Sales and profit showed a positive growth trend over time.
-The Technology category generated the highest sales and profitability.
-A small number of products contributed significantly to total profit.
-The West region achieved the highest sales and profit performance.
-Customer contributions varied, with a few key customers generating substantial revenue.
-Profit margins differed across regions, indicating variations in regional performance.
-Regional manager analysis highlighted differences in sales, profit, and order distribution.
+- Sales and profit showed a positive growth trend over time.
+- The Technology category generated the highest sales and profitability.
+- A small number of products contributed significantly to total profit.
+- The West region achieved the highest sales and profit performance.
+- Customer contributions varied, with a few key customers generating substantial revenue.
+- Profit margins differed across regions, indicating variations in regional performance.
+- Regional manager analysis highlighted differences in sales, profit, and order distribution.
 
 
 ## Final Conclusion 
