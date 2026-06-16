@@ -39,7 +39,10 @@ The final stage focused on analyzing regional and customer performance. Sales, p
 - Profit margins differed across regions, indicating variations in regional performance.
 - Regional manager analysis highlighted differences in sales, profit, and order distribution.
 
-
 ## Final Conclusion 
 
 The Supply Chain and Sales Performance Analysis Dashboard successfully transformed business data into meaningful insights through interactive Power BI visualizations. The analysis identified key products, customers, and regions that drive business performance while highlighting opportunities for improvement. Overall, the dashboard supports data-driven decision-making and provides an effective tool for monitoring sales, profitability, and regional performance.
+
+## Dashboard
+<img width="1388" height="786" alt="Summary" src="https://github.com/user-attachments/assets/1d0b9cec-d7fb-46c7-8f6a-b4741cb7d35b" />
+
