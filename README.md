@@ -7,7 +7,7 @@ The objective of this project is to develop an interactive Power BI dashboard th
 ## Dataset Used
 - [Dataset](https://github.com/gayathribandara23/Supply-Chain-and-Sales-Performance-Analysis-Dashboard/blob/main/Sample%20-%20Superstore_2024.xlsx)
 
-# Process of Dashboard Development
+## Process of Dashboard Development
 
 The dashboard was developed through three analytical stages to provide a comprehensive view of business performance.
 
