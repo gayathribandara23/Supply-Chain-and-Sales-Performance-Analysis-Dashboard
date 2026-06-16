@@ -46,3 +46,7 @@ The Supply Chain and Sales Performance Analysis Dashboard successfully transform
 ## Dashboard
 <img width="1388" height="786" alt="Summary" src="https://github.com/user-attachments/assets/1d0b9cec-d7fb-46c7-8f6a-b4741cb7d35b" />
 
+<img width="1310" height="799" alt="Product Performance" src="https://github.com/user-attachments/assets/c9b88a92-7973-47a3-8835-86fda758ec98" />
+
+<img width="1367" height="793" alt="Manager_Customer Analysis" src="https://github.com/user-attachments/assets/3686be67-7185-4699-b9df-48f30840c1e2" />
+
